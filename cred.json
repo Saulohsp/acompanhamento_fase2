@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "buriti-415112",
+  "private_key_id": "58d1a556cc33d01984bf99ff3a1e0c327b7bceee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcwqCDZsu+rxye\n0HHV79pTZO4CLk5SVzuzjvQgZbeJ5wbEyjokqqAn/p+FxAGe6lZ++qb9PwbY2rcj\nz2WQHsVVhFpVWICxna6fqWAAYrtYCBwktioN+opr7txzb2lkX58Qi45HQEc+kWMa\nMX1rS7P//w5PRlU+imfuR9/SsuR+Izag7JrB8LOSWJ3hWQr4GuKRclyCBAYcJajO\nV3CMpZz7fc9q8tOCB2OKEQEmJ7P0mHTffmTQ4F/62RxGGJHuIQ/7KCjNx5YKEVZN\nfDBKZHyS/q0YNPDZPDhpCbiiFA+orrFAWph2m/1dzehqHt9qYV3a2tMU68VY3pfy\nVJDxlGmXAgMBAAECggEAF2kHZeg67X9NjmLBr/ncXc+OWHFdjUrCuzDSQL5VV7j9\nLUlSv+QNUTu4y1YMtJSkFd132mJdsufi1BcRFfdKcALOfL1f/BEjdsDpedVEy25B\nSbLnT+Qbuj0B22lcJhBo+vm5uzvxsnnYK3K68K7tstbTu79cqUoryuLH8w7NNGWb\no23iyYHQdb6h9nEmWreITrUmWsMq0T7UuRdPGDhks6kcD/lt6n3UVPFoEIKifr7Z\nZMoI9B+q2kQB8t7WLLqEeXC4hD9QAF+/JIlL2/YRHad6TH1QF4GVvFAzsBAvDN7p\n7E2zxn/YHbnNA14BBE4ObjyLC68HQm1tmv/aQLdtCQKBgQDQRKVEvcXyNZEKwCcq\nV5mis/eWU0AdJ3ytsxjyMpPBQULtX/rzJXoNM6bTEswKVr09uZ0ZMxyxC0Q1UIfv\nXSixfjaKmuT1D+GUe16p9HZ2yNjrSSOIAn1PmV34cre6hRmNe+ShbL9j/3qbAKoM\nnTxOXFG+TOtLHV1SjHPctGACzwKBgQDAr/LubyZOIKWzYzzQ94o3WoS5o3Mi0Q11\nVHuc0J3Z3DZmZd4MroirJdyX848zKRD8UEXxwm22FBHNtUgi3PscOJ4OoTx0ATLj\nArUVcgCQ0d63eTSpisyrlL7vx2ZddJUEyJKl6r2nFxXfGbIFI/usqYiOFfOFzbdN\nHtU4Ekf+uQKBgQCqxo8qRd6JlIkBYrz6yGgPdTjgyBT7kwR2PjSHbRehUQ07LgfN\n1v400xTJYVF0bNmyQoBiSHoPZqigew9sJFyY5mB82TRDCqmzolHmVLHLBzhv/kIn\nZbsxSRY4AoFLbZadYGkCQPTTX4s+jJXj0A7CRos020fZCRQb+1WKNVHBGwKBgG+W\nNYhRRAygqXUedjzJ7fgqaoybFHVIPZQCDef9hDyDY9mfCp2rgagjsAErYnWNRbHo\nxui/4Qs9yiWn4xOVh7KLMzVjuH+xpgeDLN0zfRJhB6qW/aFlqSuAY6a2ghiDCD2R\n7iM5swUNwHPIDKkfcoNGVrd6DOIjBREbVv020Qy5AoGBAJXwbbgqonqz0AZ1nWH6\nkhZcqC8oVB/PpiMZND36yX0FCZQ5gDPuLcu6iEL1edj8rIG64wo7av/ndCl8bsaE\nCtfSvdF394nn/zWWMWCHUG8WQBDYG2rClD657Kqfenclf2iS0I+Gp/GHMfI2EpLC\n66uycPD08sZuYOPRTxUH9eRS\n-----END PRIVATE KEY-----\n",
+  "client_email": "buriti@buriti-415112.iam.gserviceaccount.com",
+  "client_id": "101885384022491988502",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/buriti%40buriti-415112.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
